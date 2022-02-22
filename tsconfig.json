@@ -1,0 +1,14 @@
+{
+  "include": [
+      "src/*"
+  ],
+  "compilerOptions": {
+      "target": "es5",
+      "jsx": "react",
+      "allowSyntheticDefaultImports": true,
+      "allowJs": true,
+      "moduleResolution": "node",
+      "noImplicitAny": true,
+      "module": "es6",
+  }
+}
